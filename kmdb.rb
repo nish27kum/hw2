@@ -92,7 +92,7 @@ Role.destroy_all
 # rails generate model Actor 
 # rails generate model Role 
 
-# rails db:drop db:create db:migrate
+# rails db:migrate
 
 # Insert data into the database that reflects the sample data shown above.
 # Do not use hard-coded foreign key IDs.
